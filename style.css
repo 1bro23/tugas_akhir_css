@@ -1,0 +1,9 @@
+.bg-custom{
+  background-image:linear-gradient(white 93%,green);
+}
+.bg-custom-horizontal-tr{
+  background-image:linear-gradient(to right,lightgreen 5%,lime 50%,green);
+}
+.bg-custom-horizontal-tl{
+  background-image:linear-gradient(to left,lightgreen 5%,lime 50%,green);
+}
